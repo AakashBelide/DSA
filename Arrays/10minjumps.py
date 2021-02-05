@@ -9,17 +9,29 @@ def minjump(arr, n):
             break
         else:
             if(s == 0):
-                s += arr[s]
+                s = arr[s]
             else:
-                #print(s, arr[s:s+arr[s]])
-                s += max(arr[s:s+arr[s]])
+                print(s, arr[s+1:s+arr[s]+1], s+arr[s]+1)
+                if(s+arr[s]+1 >= n):
+                    j += 1
+                    break
+                if(arr.index(max(arr[s+1:s+arr[s]+1])) == 0):
+                    s += 1
+                else:
+                    s = arr.index(max(arr[s+1:s+arr[s]+1]))
             j += 1
     return j
 
 ar = [1, 3, 5, 8, 9, 2, 6, 7, 6, 8, 9]
-n = 11
 
 #ar = [1, 4, 3, 2, 6, 7]
-#n = 6
+
+#ar = [1, 3, 6, 3, 2, 3, 6, 8, 9, 5]
+
+#ar = [1, 3, 6, 1, 0, 9]
+
+#ar = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+n = len(ar)
 
 print(minjump(ar, n))
