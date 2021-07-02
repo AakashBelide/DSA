@@ -1,6 +1,5 @@
 # Shortest Common SuperSequence
 # https://practice.geeksforgeeks.org/problems/shortest-common-supersequence0322/1#
-# https://leetcode.com/problems/longest-common-subsequence/
 
 x = "geek"
 y = "eke"
