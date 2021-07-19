@@ -1,7 +1,6 @@
 # 7 Maximum Area Histogram | MAH
-# https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1#
+# https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1# (TLE)
 # https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/
-
 
 arr = [6, 2, 5, 4, 5, 1, 6]
 
