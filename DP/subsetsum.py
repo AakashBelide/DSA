@@ -1,5 +1,5 @@
 # Subset Sum
-# https://practice.geeksforgeeks.org/problems/subset-sum-problem2014
+# https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&page=4&query=category[]Dynamic%20Programmingpage4category[]Dynamic%20Programming
 arr = [2, 3, 7, 8, 10]
 sm = 11
 n = len(arr)
