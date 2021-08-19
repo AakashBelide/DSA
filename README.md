@@ -117,6 +117,8 @@ To practice SQL questions, you can try [Leetcode Database Problems](https://leet
   </ul>
 </details>
 
+<br>
+
 - [GFG LMS](https://www.geeksforgeeks.org/last-minute-notes-dbms/)
 - [Interviewbit](https://www.interviewbit.com/dbms-interview-questions/)
 - [interviewbit - SQL](https://www.interviewbit.com/sql-interview-questions/#questions)
@@ -153,6 +155,8 @@ Go through youtube videos on OOPs if possible to cover all the concepts.
   </li>
   </ul>
 </details>
+
+<br>
 
 - [Interviewbit](https://www.interviewbit.com/oops-interview-questions/)
 - [Javatpoint](https://www.javatpoint.com/oops-interview-questions)
@@ -212,6 +216,8 @@ Go through youtube videos on OOPs if possible to cover all the concepts.
   </ul>
 </details>
 
+<br>
+
 <details>
   <summary>Projects</summary>
   <ul>
@@ -221,6 +227,8 @@ Go through youtube videos on OOPs if possible to cover all the concepts.
   <li>Go through your projects and make sure they are working prior to your interviews.</li>
   </ul>
 </details>
+
+<br>
 
 # Contributors :fire:
  - [Belide Aakash](https://www.linkedin.com/in/belideaakash/)
@@ -232,4 +240,5 @@ Go through youtube videos on OOPs if possible to cover all the concepts.
 
 Star :star: this repo if you like it.
 
- **Good luck with your preparation :thumbsup:**
+<p align="center"><b>Good luck with your preparation &#128077<b>
+</p>
