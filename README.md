@@ -46,7 +46,6 @@
 - DP (For Top Companies)
 - Graphs (For Top Companies)
 
----
 
 ## Resources :memo:
 ### Sheets and Quality Questions :green_book:
@@ -66,7 +65,6 @@
 
 - [GFG Data Structures and Algorithms Course](https://practice.geeksforgeeks.org/courses/dsa-self-paced) (Buy it only if you can afford it. Covers most of the basic foundations and is worth the money :heavy_dollar_sign:. You can do well with online free resources as well.)
 
----
 
 ## Platforms :key:
 Do check out the solutions, editorials, and discussion once you solve or cannot solve the problem to understand the various approaches.
@@ -76,7 +74,6 @@ Do check out the solutions, editorials, and discussion once you solve or cannot 
 - [Codechef](https://www.codechef.com/) (Advanced)
 - [CodeForces](https://codeforces.com/) (Advanced)
 
----
 
 ## Theory (Interview POV and Practice Resources) :notebook:
 GFG Last Minute Notes are more theoretical and contain only text generally. I prefer Interviewbit as they have both textual and pictorial representation which is better for understanding.
@@ -164,19 +161,16 @@ Go through youtube videos on OOPs if possible to cover all the concepts.
 - [Interviewbit](https://www.interviewbit.com/networking-interview-questions/)
 - [Javatpoint](https://www.javatpoint.com/networking-interview-questions)
 
----
 
 ## Aptitude :bar_chart:
 - [IndiaBix](https://www.indiabix.com/) - Recomended (Go through the important formulas for each topic)
 - [Coding Ninjas](https://www.codingninjas.com/codestudio/guided-paths/aptitude-preparation/content/118505/offering/1376484)
 
----
 
 ## Puzzles :trophy:
 - [Normal (GFG)](https://www.geeksforgeeks.org/puzzles/)
 - Guesstimates
 
----
 
 ## Interview Tips :clipboard:
 - Read Interview experiences from GFG or elsewhere before every test or interview as the questions repeat sometimes and you even have a rough idea and narrow down on the topics to prepare. If you know about your interview panel, check out their profiles on LinkedIn (anonymously) and concentrate more on the projects which clash with their domain of expertise as they can go deep while asking questions.
