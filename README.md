@@ -58,7 +58,7 @@
 
 - [Leetcode Top Interview Questions - Easy, Medium & Hard](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
 
-- [CSES Handbook](https://cses.fi/book/book.pdf)
+- [CSES Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
 
 - [Extra Resources](https://anubhavsinha98.medium.com/resources-to-master-data-structures-and-algorithms-24450dc6d52b)
 
