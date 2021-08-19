@@ -1,4 +1,4 @@
-# DSA :white_check_mark:
+![DSA](DSA_Header.png "DSA")
 - **You are never too late :clock12:.** Start your preparation as soon as possible to have an edge over others.
 
 - Try to start your preparation in your 2nd year itself as it can help crack the on-campus internships which have greater chances of getting converted to PPO and you can concentrate on other things during the placement season.
