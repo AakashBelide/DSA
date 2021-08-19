@@ -230,5 +230,6 @@ Go through youtube videos on OOPs if possible to cover all the concepts.
 
  **:red_circle:Note: All the above-mentioned tips are based on our personal views and experiences. This is just to help you out with your preparation and doesn't guarantee that you will be placed. We are not responsible for anything.**
 
+Star :star: this repo if you like it.
 
  **Good luck with your preparation :thumbsup:**
