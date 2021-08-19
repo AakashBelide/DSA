@@ -127,7 +127,7 @@ To practice SQL questions, you can try [Leetcode Database Problems](https://leet
 
 - [GFG LMS](https://www.geeksforgeeks.org/last-minute-notes-dbms/)
 - [Interviewbit](https://www.interviewbit.com/dbms-interview-questions/)
-- [interviewbit - SQL](https://www.interviewbit.com/sql-interview-questions/#questions)
+- [Interviewbit - SQL](https://www.interviewbit.com/sql-interview-questions/#questions)
 - [Javatpoint](https://www.javatpoint.com/sql-interview-questions)
 
 ### OOPS :closed_lock_with_key:
