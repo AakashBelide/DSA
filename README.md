@@ -1,11 +1,11 @@
 # DSA :white_check_mark:
 - **You are never too late :clock12:.** Start your preparation as soon as possible to have an edge over others.
 
-- Try to start your preparation in your 2nd year itself as it can be helpful in cracking the on-campus internships which have greater chances of getting converted to PPO and you can concentrate on other things during placement season.
+- Try to start your preparation in your 2nd year itself as it can help crack the on-campus internships which have greater chances of getting converted to PPO and you can concentrate on other things during the placement season.
 
-- Try to do **minimum :three::five::zero:**+ questions (good quality). Preferably concentrate more on medium level questions. Be consistent and solve question everyday.
+- Try to do **minimum :three::five::zero:**+ questions (good quality). Preferably concentrate more on medium-level questions. Be consistent and solve questions every day.
 
-- Be thorough in atleast **:one:** language (C++ or Java or Python). If you are going ahead with Python, try to have a backup language (either C++ or Java) in which you know the basics of coding as some companies do not allow Python but it is very rare. The main reason is that many codes might give TLE in Python and the same code in other language would work perfectly. **I have added few codes in Python as I could not find a single place where the solutions for various questions are in Python. I will try to add more solutions in the future.**
+- Be thorough in at least **:one:** language (C++ or Java or Python). If you are going ahead with Python, try to have a backup language (either C++ or Java) in which you know the basics of coding as some companies do not allow Python but it is very rare. The main reason is that many codes might give TLE in Python and the same code in other languages would work perfectly. **I have added few codes in Python as I could not find a single place where the solutions for various questions are in Python. I will try to add more solutions in the future.**
 
 - Make sure you know Java and C++ to understand the basic syntax as many technical MCQs are in these languages.
 
@@ -13,26 +13,26 @@
 
 - Have a clear idea if you want to pursue masters or sit for placements if your university doesn't allow you to reject on-campus offers.
 
-- Know and adhere to all the rules of you campus placement cell to avoid getting into trouble.
+- Know and adhere to all the rules of your campus placement cell to avoid getting into trouble.
 
-- Make a habit of checking your mails time to time. If you miss out an important mail, you may regret later.
+- Make a habit of checking your emails from time to time. If you miss out on an important mail, you may regret it later.
 
-- Talk to like minded people and share resources with eachother. **Don't be greedy :x:.**
+- Talk to like-minded people and share resources with each other. **Don't be greedy :x:.**
 
-- Try to make a group other friends who solve questions consistently. Discuss your solutions with eachother to understand various approaches to the same question.
+- Try to make a group with friends who solve questions consistently. Discuss your solutions with each other to understand various approaches to the same question.
 
-- The placement season can be very stressful. You'll face many rejections but don't give up. try to have enough sleep and balance everything else as well. Luck matters alot during placements.
+- The placement season can be very stressful. You'll face many rejections but don't give up. try to have enough sleep and balance everything else as well. Luck matters a lot during placements.
 
-- Your **CGPA** matters alot for getting shortlisted. Once your shortlisted, give it your all to clear the coding and interview rounds.
+- Your **CGPA** matters a lot for getting shortlisted. Once you are shortlisted, give it your all to clear the coding and interview rounds.
 
-:large_blue_circle:*Note: Other tips on technical and management related placements and higher studies (Masters) would be added in the future.*
+:large_blue_circle:*Note: Other tips on technical and management-related placements and higher studies (Masters) would be added in the future.*
 
 ## Data Structures and Algorithms to practice :triangular_flag_on_post:
 - Arrays
 - Linked List
 - Stack
 - Hashing
-- Queue (Havne't seen many questions in tests on queues)
+- Queue (Haven't seen many questions in tests on queues)
 - Strings
 - Bit Magic
 - Sorting (Various algorithms)
@@ -64,12 +64,12 @@
 
 - [Striver](https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig) - SDE Sheet solutions (Graphs and other playlists are good as well)
 
-- [GFG Data Structures and Algorithms Course](https://practice.geeksforgeeks.org/courses/dsa-self-paced) (Buy it only if you can afford. Covers most of the basic foundations and worth the money :heavy_dollar_sign:. You can do well with online free resources as well.)
+- [GFG Data Structures and Algorithms Course](https://practice.geeksforgeeks.org/courses/dsa-self-paced) (Buy it only if you can afford it. Covers most of the basic foundations and is worth the money :heavy_dollar_sign:. You can do well with online free resources as well.)
 
 ---
 
 ## Platforms :key:
-Do check out the solutions, editorials and discussion once you solve or cannot solve the problem to understand the various approaches.
+Do check out the solutions, editorials, and discussion once you solve or cannot solve the problem to understand the various approaches.
 - [Hackerrank](https://www.hackerrank.com/) (Basics)
 - [GFG](https://practice.geeksforgeeks.org/explore/?company%5B%5D=Amazon&problemType=functional&page=1&sortBy=submissions&company%5B%5D=Amazon) (Medium to Advanced) - Recomended
 - [Leetcode](https://leetcode.com/explore/) (Medium to Advanced) - Recomended
@@ -78,12 +78,12 @@ Do check out the solutions, editorials and discussion once you solve or cannot s
 
 ---
 
-## Theory (Interview POV and Pratice Resources) :notebook:
+## Theory (Interview POV and Practice Resources) :notebook:
 GFG Last Minute Notes are more theoretical and contain only text generally. I prefer Interviewbit as they have both textual and pictorial representation which is better for understanding.
 
 Try to cover all the resources for each theory topic.
 
-If you have enough time, checkout the interview questions based on your domain on Interviewbit. They have interview questions for Data Science, Machine Learning, Cloud, Node, etc. which can be helpful.
+If you have enough time, check out the interview questions based on your domain on Interviewbit. They have interview questions for Data Science, Machine Learning, Cloud, Node, etc. which can be helpful.
 
 ### DBMS :minidisc:
 To practice SQL questions, you can try [Leetcode Database Problems](https://leetcode.com/problemset/database/?page=1) and [HackerRank](https://www.hackerrank.com/domains/sql)
@@ -181,9 +181,9 @@ Go through youtube videos on OOPs if possible to cover all the concepts.
 ## Interview Tips :clipboard:
 - Read Interview experiences from GFG or elsewhere before every test or interview as the questions repeat sometimes and you even have a rough idea and narrow down on the topics to prepare. If you know about your interview panel, check out their profiles on LinkedIn (anonymously) and concentrate more on the projects which clash with their domain of expertise as they can go deep while asking questions.
 
-- While answering any DSA problem during an interview, start with the brute force approach and eventually optimize your code even if you know the optimized approach. Don't waste much time on the brute force if you already know the best approach.
+- While answering any DSA problem during an interview, start with the brute force approach and eventually optimize your code even if you know the optimized approach. Don't waste much time on brute force if you already know the best approach.
 
-- Don't act if you don't know the answer for any question.
+- Don't act if you don't know the answer to any question.
 
 - Be confident while answering and keep smiling throughout the interview.
 
