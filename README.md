@@ -74,8 +74,10 @@ Do check out the solutions, editorials, and discussion once you solve or cannot 
 - [Hackerrank](https://www.hackerrank.com/) (Basics)
 - [GFG](https://practice.geeksforgeeks.org/explore/?company%5B%5D=Amazon&problemType=functional&page=1&sortBy=submissions&company%5B%5D=Amazon) (Medium to Advanced) - Recomended
 - [Leetcode](https://leetcode.com/explore/) (Medium to Advanced) - Recomended
+- [CSES Problem Set](https://cses.fi/problemset/) (Medium to Advanced)
 - [Codechef](https://www.codechef.com/) (Advanced)
 - [CodeForces](https://codeforces.com/) (Advanced)
+
 
 
 ## Theory (Interview POV and Practice Resources) :notebook:
