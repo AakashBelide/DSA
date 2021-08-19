@@ -58,6 +58,8 @@
 
 - [Leetcode Top Interview Questions - Easy, Medium & Hard](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
 
+- [CSES Handbook](https://cses.fi/book/book.pdf)
+
 - [Extra Resources](https://anubhavsinha98.medium.com/resources-to-master-data-structures-and-algorithms-24450dc6d52b)
 
 
@@ -99,9 +101,9 @@ To practice SQL questions, you can try [Leetcode Database Problems](https://leet
   <ul>
   <li>YouTube videos:
   <ul>
-  <li><a src="https://www.youtube.com/watch?v=7S_tz1z_5bA">Programmign with Mosh - MySQL Tutorial for Beginners (For Basic topics)</a></li>
-  <li><a src="https://www.youtube.com/watch?v=HXV3zeQKqGY">freeCodeCamp.org - SQL Tutorial (For Basic topics)</a></li>
-  <li><a src="https://www.youtube.com/watch?v=M-55BmjOuXY">Simplielearn - SQL Advanced Tutorial (For Advanced topics)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=7S_tz1z_5bA">Programming with Mosh - MySQL Tutorial for Beginners (For Basic topics)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=HXV3zeQKqGY">freeCodeCamp.org - SQL Tutorial (For Basic topics)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=M-55BmjOuXY">Simplielearn - SQL Advanced Tutorial (For Advanced topics)</a></li>
   </ul>
   </li>
   <li>Important Concepts:
@@ -138,10 +140,10 @@ Go through youtube videos on OOPs if possible to cover all the concepts.
   <li>Try to go through YouTube videos to understand all the basic concepts of OOPs.</li>
   <li>If you are coding in Python, I would recommend these:
   <ul>
-  <li><a src="https://www.youtube.com/watch?v=qiSCMNBIP2g">Telusko - OOPs in Python</a></li>
-  <li><a src="https://www.youtube.com/watch?v=TFLo9m0jFEg"> ProgrammingKnowledge - Python Tutorial for beginners from video 27 to 35 & 50</a></li>
+  <li><a href="https://www.youtube.com/watch?v=qiSCMNBIP2g">Telusko - OOPs in Python</a></li>
+  <li><a href="https://www.youtube.com/watch?v=TFLo9m0jFEg"> ProgrammingKnowledge - Python Tutorial for beginners from video 27 to 35 & 50</a></li>
   <li>
-  <a src="https://www.youtube.com/watch?v=FDdfGFhY9Ms"> edureka! - Python Encapsulation</a>
+  <a href="https://www.youtube.com/watch?v=FDdfGFhY9Ms"> edureka! - Python Encapsulation</a>
   </li>
   <li>Know the differences of OOPs concept implementation in Python and Java.</li>
   </ul>
