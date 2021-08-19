@@ -68,6 +68,8 @@
 
 - [GFG Data Structures and Algorithms Course](https://practice.geeksforgeeks.org/courses/dsa-self-paced) (Buy it only if you can afford it. Covers most of the basic foundations and is worth the money :heavy_dollar_sign:. You can do well with online free resources as well.)
 
+- [Codebasics - Python 3 Programming Tutorials for Beginners](https://youtube.com/playlist?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0)
+
 
 ## Platforms :key:
 Do check out the solutions, editorials, and discussion once you solve or cannot solve the problem to understand the various approaches.
