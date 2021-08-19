@@ -32,7 +32,7 @@
 - Linked List
 - Stack
 - Hashing
-- Queue (Haven't seen many questions in tests on queues)
+- Queue
 - Strings
 - Bit Magic
 - Sorting (Various algorithms)
@@ -41,7 +41,8 @@
 - 2 or n-pointer approaches
 - Backtracking
 - Greedy
-- Trees (Binary Trees)
+- Trees (Binary Trees, BST)
+- Heaps
 - Recursion (Do this before DP)
 - DP (For Top Companies)
 - Graphs (For Top Companies)
@@ -56,6 +57,8 @@
 - [GFG Must Do Interview Preparation Questions](https://practice.geeksforgeeks.org/courses/must-do-interview-prep?vC=1)
 
 - [Leetcode Top Interview Questions - Easy, Medium & Hard](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
+
+- [Extra Resources](https://anubhavsinha98.medium.com/resources-to-master-data-structures-and-algorithms-24450dc6d52b)
 
 
 ### Youtube :tv:
@@ -81,6 +84,8 @@ GFG Last Minute Notes are more theoretical and contain only text generally. I pr
 Try to cover all the resources for each theory topic.
 
 If you have enough time, check out the interview questions based on your domain on Interviewbit. They have interview questions for Data Science, Machine Learning, Cloud, Node, etc. which can be helpful.
+
+If you want extra questions or resources, check out: [Striver Code Sheet](https://docs.google.com/document/d/1sQlRDw6--HwyxeFL7b4kBsOG-Tz7rXMbpWNnfvJErA4/edit) or [Love Babbar Roadmaps](https://youtube.com/playlist?list=PL4PCksYQGLJMtEI_0y0FWf3dz1DzB_2KU)
 
 ### DBMS :minidisc:
 To practice SQL questions, you can try [Leetcode Database Problems](https://leetcode.com/problemset/database/?page=1) and [HackerRank](https://www.hackerrank.com/domains/sql)
@@ -119,6 +124,7 @@ To practice SQL questions, you can try [Leetcode Database Problems](https://leet
 
 ### OOPS :closed_lock_with_key:
 Go through youtube videos on OOPs if possible to cover all the concepts.
+**Note: OOPs concepts differ from language to language.**
 
 <details>
   <summary>Tips and resources:</summary>
@@ -164,7 +170,7 @@ Go through youtube videos on OOPs if possible to cover all the concepts.
 
 ## Aptitude :bar_chart:
 - [IndiaBix](https://www.indiabix.com/) - Recomended (Go through the important formulas for each topic)
-- [Coding Ninjas](https://www.codingninjas.com/codestudio/guided-paths/aptitude-preparation/content/118505/offering/1376484)
+- [Coding Ninjas](https://www.codingninjas.com/codestudio/guided-paths/aptitude-preparation)
 
 
 ## Puzzles :trophy:
@@ -173,7 +179,9 @@ Go through youtube videos on OOPs if possible to cover all the concepts.
 
 
 ## Interview Tips :clipboard:
-- Read Interview experiences from GFG or elsewhere before every test or interview as the questions repeat sometimes and you even have a rough idea and narrow down on the topics to prepare. If you know about your interview panel, check out their profiles on LinkedIn (anonymously) and concentrate more on the projects which clash with their domain of expertise as they can go deep while asking questions.
+- Read Interview experiences from GFG or elsewhere before every test or interview as the questions repeat sometimes and you will have a rough idea which will narrow down on the topics to prepare.
+
+- If you know about your interview panel, check out their profiles on LinkedIn (anonymously) and concentrate more on the projects which clash with their domain of expertise as they can go deep while asking questions.
 
 - While answering any DSA problem during an interview, start with the brute force approach and eventually optimize your code even if you know the optimized approach. Don't waste much time on brute force if you already know the best approach.
 
@@ -196,8 +204,11 @@ Go through youtube videos on OOPs if possible to cover all the concepts.
   <li>Make sure your resume is in either PDF or Word Dcoument format and the text can be copied by dragging (The text cannot be copied if your resume is an image if you make it in photoshop).</li>
   <li>Mention projects and attach a link if it is hosted or has a github repo.</li>
   <li>Proof Read</li>
-  <li>Don't mention unnecessary stuff.</li>
-  <li>Use <a href="https://resumeworded.com/">Resume Worded</a> for better resume making tips.</li>
+  <li>Don't mention unnecessary stuff. Mention only those skills and projects which you actually know.</li>
+  <li>Don't worry if you have a mediocre resume, concentrate more on your preparation.</li>
+  <li>If you done internships then that's good else it is fine. Won't matter in an interview if you can answer everything.</li>
+  <li>You can use <a href="https://resumeworded.com/">Resume Worded</a> for better resume making tips.</li>
+  <li>You can use <a href="https://www.overleaf.com/">Overleaf</a> or <a href="https://www.canva.com/">Canva</a> for making your resume.</li>
   </ul>
 </details>
 
