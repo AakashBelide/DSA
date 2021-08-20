@@ -7,9 +7,9 @@
 
 - Be thorough in at least **:one:** language (C++ or Java or Python). If you are going ahead with Python, try to have a backup language (either C++ or Java) in which you know the basics of coding as some companies do not allow Python but it is very rare. The main reason is that many codes might give TLE in Python and the same code in other languages would work perfectly. **I have added few codes in Python as I could not find a single place where the solutions for various questions are in Python. I will try to add more solutions in the future.**
 
-- Make sure you know Java and C++ to understand the basic syntax as many technical MCQs are in these languages.
+- Make sure you know Java and C++ to understand the basic syntax as many technical MCQs are based on these languages.
 
-- If possible, try doing the daily problems on [Leetcode](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/) and [GFG](https://practice.geeksforgeeks.org/problem-of-the-day).
+- If possible, do the daily problems on [Leetcode](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/) and [GFG](https://practice.geeksforgeeks.org/problem-of-the-day).
 
 - Have a clear idea if you want to pursue masters or sit for placements if your university doesn't allow you to reject on-campus offers.
 
@@ -19,9 +19,9 @@
 
 - Talk to like-minded people and share resources with each other. **Don't be greedy :x:.**
 
-- Try to make a group with friends who solve questions consistently. Discuss your solutions with each other to understand various approaches to the same question.
+- Try to make a group with friends who solve questions consistently. Discuss your solutions with each other to understand various approaches for the same question.
 
-- The placement season can be very stressful. You'll face many rejections but don't give up. try to have enough sleep and balance everything else as well. Luck matters a lot during placements.
+- The placement season can be very stressful. You might face many rejections but don't give up. Try to have enough sleep and balance everything else as well. **Luck matters a lot during placements**.
 
 - Your **CGPA** matters a lot for getting shortlisted. Once you are shortlisted, give it your all to clear the coding and interview rounds.
 
@@ -131,7 +131,6 @@ To practice SQL questions, you can try [Leetcode Database Problems](https://leet
 - [Javatpoint](https://www.javatpoint.com/sql-interview-questions)
 
 ### OOPS :closed_lock_with_key:
-Go through youtube videos on OOPs if possible to cover all the concepts.
 **Note: OOPs concepts differ from language to language.**
 
 <details>
@@ -148,7 +147,7 @@ Go through youtube videos on OOPs if possible to cover all the concepts.
   <li>Know the differences of OOPs concept implementation in Python and Java.</li>
   </ul>
   </li>
-  <li>Some important concepts OOPs concepts:
+  <li>Some important OOPs concepts:
   <ul>
   <li>Class</li>
   <li>Object</li>
@@ -189,7 +188,7 @@ Go through youtube videos on OOPs if possible to cover all the concepts.
 
 
 ## Interview Tips :clipboard:
-- Read Interview experiences from GFG or elsewhere before every test or interview as the questions repeat sometimes and you will have a rough idea which will narrow down on the topics to prepare.
+- Read interview experiences from GFG or elsewhere before every test or interview as the questions repeat sometimes and you will have a rough idea which will narrow down on the topics to prepare.
 
 - If you know about your interview panel, check out their profiles on LinkedIn (anonymously) and concentrate more on the projects which clash with their domain of expertise as they can go deep while asking questions.
 
@@ -216,7 +215,7 @@ Go through youtube videos on OOPs if possible to cover all the concepts.
   <li>Proof Read</li>
   <li>Don't mention unnecessary stuff. Mention only those skills and projects which you actually know.</li>
   <li>Don't worry if you have a mediocre resume, concentrate more on your preparation.</li>
-  <li>If you done internships then that's good else it is fine. Won't matter in an interview if you can answer everything.</li>
+  <li>If you have done any internship(s) then that's good, else it is fine. Won't matter in an interview if you can answer everything.</li>
   <li>You can use <a href="https://resumeworded.com/">Resume Worded</a> for better resume making tips.</li>
   <li>You can use <a href="https://www.overleaf.com/">Overleaf</a> or <a href="https://www.canva.com/">Canva</a> for making your resume.</li>
   </ul>
