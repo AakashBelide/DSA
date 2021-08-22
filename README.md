@@ -50,9 +50,7 @@
 
 ## Resources :memo:
 ### Sheets and Quality Questions :green_book:
-- [Love Babbar - DSA 450 Sheet](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
-  - [DSA 450 Tracker](https://450-dsa-tracker.netlify.app/)
-  - [450DSA](https://450dsa.com/)
+- [Love Babbar - DSA 450 Sheet](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view) | [DSA 450 Tracker](https://450-dsa-tracker.netlify.app/) | [450DSA](https://450dsa.com/)
 - [Striver - SDE Sheet](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/preview?pru=AAABe4GAo70*4StOWEVxAxVhQj02RA1FhA)
 
 - [GFG Must Do Interview Preparation Questions](https://practice.geeksforgeeks.org/courses/must-do-interview-prep?vC=1)
