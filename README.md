@@ -50,8 +50,9 @@
 
 ## Resources :memo:
 ### Sheets and Quality Questions :green_book:
-- [Love Babbar - DSA 450 Sheet](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view) | [DSA 450 Tracker](https://450-dsa-tracker.netlify.app/)
-
+- [Love Babbar - DSA 450 Sheet](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
+  - [DSA 450 Tracker](https://450-dsa-tracker.netlify.app/)
+  - [450DSA](https://450dsa.com/)
 - [Striver - SDE Sheet](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/preview?pru=AAABe4GAo70*4StOWEVxAxVhQj02RA1FhA)
 
 - [GFG Must Do Interview Preparation Questions](https://practice.geeksforgeeks.org/courses/must-do-interview-prep?vC=1)
@@ -67,6 +68,8 @@
 - [Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ) - DP and Recursion (His other playlists are good as well)
 
 - [Striver](https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig) - SDE Sheet solutions (Graphs and other playlists are good as well)
+
+- [Anuj Bhaiya](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p) - The DSA One Course (Good DSA Videos, his other playlists are too helpful)
 
 - [GFG Data Structures and Algorithms Course](https://practice.geeksforgeeks.org/courses/dsa-self-paced) (Buy it only if you can afford it. Covers most of the basic foundations and is worth the money :heavy_dollar_sign:. You can do well with online free resources as well.)
 
