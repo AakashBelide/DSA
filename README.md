@@ -178,10 +178,14 @@ To practice SQL questions, you can try [Leetcode Database Problems](https://leet
 - [Javatpoint](https://www.javatpoint.com/networking-interview-questions)
 
 
-## Aptitude :bar_chart:
-- [IndiaBix](https://www.indiabix.com/) - Recomended (Go through the important formulas for each topic)
+## Aptitude  :bar_chart:
+- [IndiaBix](https://www.indiabix.com/) -[Basic-Medium] Recomended (Go through the important formulas for each topic)
+- [CareerRide](https://www.youtube.com/playlist?list=PLpyc33gOcbVA4qXMoQ5vmhefTruk5t9lt)-[Basic-Medium] Solve each Question type and make Formula Sheet.
 - [Coding Ninjas](https://www.codingninjas.com/codestudio/guided-paths/aptitude-preparation)
 
+## Reasoning  🧠:
+- [CareerRide](https://www.youtube.com/playlist?list=PLpyc33gOcbVADMKqylI__O_O_RMeHTyNK)-[Basic- Medium] Understand the Logic and pratice Questions.
+- [IndiaBix](https://www.indiabix.com/logical-reasoning/questions-and-answers/) -[Basic-Medium] - Solve as many questions as Possible
 
 ## Puzzles :trophy:
 - [Normal (GFG)](https://www.geeksforgeeks.org/puzzles/)
@@ -241,6 +245,7 @@ To practice SQL questions, you can try [Leetcode Database Problems](https://leet
  - [Amanpreet Taluja](https://www.linkedin.com/in/amanpreet-taluja-a14822216/)
  - [Apnik Jain](https://www.linkedin.com/in/apnik-jain/)
  - [Umang Agarwal](https://www.linkedin.com/in/umang-agarwal-5b227617b)
+ - [Mihir Bhasin](www.linkedin.com/in/mihir-bhasin-3906bb185)
 
  **:red_circle:Note: All the above-mentioned tips are based on our personal views and experiences. This is just to help you out with your preparation and doesn't guarantee that you will be placed. We are not responsible for anything.**
 
