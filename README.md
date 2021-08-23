@@ -180,13 +180,16 @@ To practice SQL questions, you can try [Leetcode Database Problems](https://leet
 
 ## Aptitude :bar_chart:
 - [IndiaBix](https://www.indiabix.com/) - Recomended (Go through the important formulas for each topic)
+- [CareerRide](https://www.youtube.com/playlist?list=PLpyc33gOcbVA4qXMoQ5vmhefTruk5t9lt) - Solve types of questions and make a formula sheet
 - [Coding Ninjas](https://www.codingninjas.com/codestudio/guided-paths/aptitude-preparation)
 
+## Reasoning :brain:
+- [CareerRide](https://www.youtube.com/playlist?list=PLpyc33gOcbVADMKqylI__O_O_RMeHTyNK)
+- [IndiaBix](https://www.indiabix.com/logical-reasoning/questions-and-answers/)
 
 ## Puzzles :trophy:
 - [Normal (GFG)](https://www.geeksforgeeks.org/puzzles/)
 - Guesstimates
-
 
 ## Interview Tips :clipboard:
 - Read interview experiences from GFG or elsewhere before every test or interview as the questions repeat sometimes and you will have a rough idea which will narrow down on the topics to prepare.
@@ -241,6 +244,11 @@ To practice SQL questions, you can try [Leetcode Database Problems](https://leet
  - [Amanpreet Taluja](https://www.linkedin.com/in/amanpreet-taluja-a14822216/)
  - [Apnik Jain](https://www.linkedin.com/in/apnik-jain/)
  - [Umang Agarwal](https://www.linkedin.com/in/umang-agarwal-5b227617b)
+
+<br>
+
+Other Contributors:
+ - [Mihir Bhasin](www.linkedin.com/in/mihir-bhasin-3906bb185) - Extra resources for aptitude and reasoning
 
  **:red_circle:Note: All the above-mentioned tips are based on our personal views and experiences. This is just to help you out with your preparation and doesn't guarantee that you will be placed. We are not responsible for anything.**
 
