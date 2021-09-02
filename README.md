@@ -249,7 +249,7 @@ To practice SQL questions, you can try [Leetcode Database Problems](https://leet
 
 Other Contributors:
  - [Sarthak Verma](https://linkedin.com/in/sarthakv/) - DSA450 Extra tracker and DSA Playlist
- - [Mihir Bhasin](www.linkedin.com/in/mihir-bhasin-3906bb185) - Extra resources for aptitude and reasoning
+ - [Mihir Bhasin](https://www.linkedin.com/in/mihir-bhasin-3906bb185) - Extra resources for aptitude and reasoning
 
  **:red_circle:Note: All the above-mentioned tips are based on our personal views and experiences. This is just to help you out with your preparation and doesn't guarantee that you will be placed. We are not responsible for anything.**
 
