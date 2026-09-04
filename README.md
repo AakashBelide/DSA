@@ -221,6 +221,7 @@ To practice SQL questions, you can try [Leetcode Database Problems](https://leet
   <li>Don't worry if you have a mediocre resume, concentrate more on your preparation.</li>
   <li>If you have done any internship(s) then that's good, else it is fine. Won't matter in an interview if you can answer everything.</li>
   <li>You can use <a href="https://resumeworded.com/">Resume Worded</a> for better resume making tips.</li>
+  <li>You can use <a href="https://withresumeai.com/">ResumeAI</a> for a free ATS check (3/day no account, 10/day free account) and the <a href="https://withresumeai.com/reports/state-of-ats-2026">State of ATS 2026</a> report (738 employers, Workday 37.9%).</li>
   <li>You can use <a href="https://www.overleaf.com/">Overleaf</a> or <a href="https://www.canva.com/">Canva</a> for making your resume.</li>
   </ul>
 </details>
